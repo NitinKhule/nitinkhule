@@ -20,7 +20,7 @@
 - 🐍 **Python, Power BI, Excel, and SQL** (🏢 *Pragmatic Works* & 📘 *Udemy*)  
 - 🎯 **Lean Six Sigma Green Belt** (🏆 *Six Sigma Academy*)  
 - 🛠️ **ISTQB® Foundation Level** (🌍 *GASQ*)  
-- 📈 **Product Management Certificate** (💡 *Aha!*)  
+- 📈 **Product Management Certificate** (💡 *Aha!* & 📜 *PMI*)  
 - 🔄 **Agile Project Management Certificate** (📘 *Atlassian* & 📜 *PMI*)  
 
 ---
