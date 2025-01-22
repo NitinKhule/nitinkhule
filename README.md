@@ -28,8 +28,7 @@
 ---
 
 ## 🌍 **Find Me Online**  
-📌 **[LinkedIn](https://www.linkedin.com/in/nitinkhule/)**  
-📧 **Have an exciting project or idea? Let’s connect and innovate together!**  
+📌 **[Nitin Khule LinkedIn Profile](https://www.linkedin.com/in/nitinkhule/)**  📧 **Have an exciting project or idea? Let’s connect and innovate together!**  
 
 ---  
 
