@@ -37,8 +37,4 @@
 
 ## 🌍 **Find Me Online**  
 📌 **[Nitin's LinkedIn Profile](https://www.linkedin.com/in/nitinkhule/)**  
-📧 **Have an exciting project or idea? Let’s connect and innovate together!**  
-
----  
-
-🔥 Let's **push boundaries** and **build the future** together. **Reach out today, and let’s create something extraordinary!** 🚀
+📧 **Have an exciting project or idea? Let’s connect and innovate together!** 🔥 Let's **push boundaries** and **build the future** together. **Reach out today, and let’s create something extraordinary!** 🚀
