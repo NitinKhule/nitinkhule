@@ -1,5 +1,5 @@
-# 👋 Hello, I'm **Nitin Khule**! *(He/Him)*  
-### 🚀 **Mechatronics Engineer | R&D and Data Insights Specialist | Innovating at the Intersection of Technology and Engineering**  
+# 👋 Hello, I'm **Nitin Khule**! 
+### 🚀 **Mechatronics Engineer | R&D and Data Insights Specialist | Driving Innovation in Engineering Development | Bridging Engineering Excellence with Product and Project Management**  
 
 🌟 **Passion**: I thrive at the crossroads of engineering and innovation, leveraging **data-driven insights** and **technical expertise** to develop **smart systems**, **automation solutions**, and **IoT innovations**.  
 
