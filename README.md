@@ -3,8 +3,6 @@
 
 🌟 **Passion**: I thrive at the crossroads of engineering and innovation, leveraging **data-driven insights** and **technical expertise** to develop **smart systems**, **automation solutions**, and **IoT innovations**.  
 
-📍 **Based in Düsseldorf, Germany**, I specialize in crafting impactful solutions while seamlessly integrating **technical excellence** with **product and project management strategies**.  
-
 ---
 
 ## ✨ **What I Bring to the Table**  
