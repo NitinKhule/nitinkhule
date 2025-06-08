@@ -67,7 +67,7 @@
     🔗 <strong>Let’s Connect:</strong>
     <a href="https://www.linkedin.com/in/nitinkhule" target="_blank" style="color:#0984e3; text-decoration:none;">LinkedIn</a> ·
     <a href="https://github.com/NitinKhule" target="_blank" style="color:#6c5ce7; text-decoration:none;">GitHub</a> ·
-    <a href="mailto:nitin.khule.de@gmail.com" style="color:#e17055; text-decoration:none;">nitin.khule.de@gmail.com</a>
+    <a href="mailto:nitin.khule.de@gmail.com" style="color:#e17055; text-decoration:none;">Gmail</a>
   </div>
 
 </div>
