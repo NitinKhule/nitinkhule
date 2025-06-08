@@ -110,7 +110,7 @@
     <span style="color:#00cec9;">English (C1)</span> | 
     <span style="color:#00cec9;">German (B1)</span> | 
     <span style="color:#00cec9;">Hindi (C2)</span> | 
-    <span style="color:#00cec9;">Marathi (C2)</span> | 
+    <span style="color:#00cec9;">Marathi (C2)</span> 
   </p>
 
   <!-- Contact -->
