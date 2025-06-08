@@ -1,40 +1,50 @@
-# 👋 Hello, I'm **Nitin Khule**! 
-### 🚀 **Mechatronics Engineer | R&D and Data Insights Specialist | Driving Innovation in Engineering Development | Bridging Engineering Excellence with Product and Project Management**  
+<div style="font-family: 'Segoe UI', sans-serif; color: #2c3e50; line-height: 1.6; padding: 20px;">
+  <h2 style="font-size: 28px; color: #1abc9c; margin-bottom: 10px;">
+    🚀 Engineering Innovation | Driving R&D Excellence | Powering Projects with Data & Digital Intelligence
+  </h2>
 
-🌟 **Passion**: I thrive at the crossroads of engineering and innovation, leveraging **data-driven insights** and **technical expertise** to develop **smart systems**, **automation solutions**, and **IoT innovations**.  
+  <p style="font-size: 16px;">
+    As a <strong>Mechatronics & Robotics Engineer</strong> with cross-functional expertise in 
+    <strong>R&D</strong>, <strong>product development</strong>, <strong>data analytics</strong>, and 
+    <strong>project management</strong>, I thrive at the intersection of <em>engineering innovation</em> 
+    and <em>strategic execution</em>. With hands-on experience across 
+    <strong>smart systems, IoT-enabled platforms, and automotive technologies</strong>, 
+    I design and deliver <span style="color: #2980b9;">digital-first solutions</span> that optimize 
+    performance, enhance reliability, and accelerate transformation.
+  </p>
 
----
+  <h3 style="margin-top: 20px; color: #34495e;">➤ What I Bring</h3>
+  <ul style="list-style-type: '➤ '; padding-left: 20px;">
+    <li>A systems-thinking mindset to build intelligent products, from concept to validation</li>
+    <li>Agile-driven leadership in cross-functional engineering and innovation projects</li>
+    <li>Data-powered decision-making for design improvement and performance insights</li>
+    <li>Strong foundation in automation, quality systems, and digital product lifecycle tools</li>
+  </ul>
 
-## ✨ **What I Bring to the Table**  
-🎯 **Innovative Problem-Solving**: Turning complex ideas into efficient, scalable systems.  
-💻 **Technical Mastery**: Expertise in **CAD/CAE**, **automation**, **programming**, and **data analytics**.  
-🤝 **Collaboration & Leadership**: Leading cross-functional teams to deliver on ambitious goals.  
+  <h3 style="margin-top: 20px; color: #34495e;">🔧 Technical Stack</h3>
+  <ul style="list-style-type: '➤ '; padding-left: 20px;">
+    <li><strong>CAD/CAE:</strong> AutoCAD | SolidWorks | Siemens NX | Creo | Ansys Workbench</li>
+    <li><strong>Automation & Control:</strong> PLC Programming | HMI | Sensor & Motor Integration</li>
+    <li><strong>Data & Programming:</strong> Python | SQL | MATLAB | Arduino | Power BI | MySQL</li>
+    <li><strong>Quality & Testing:</strong> Six Sigma | ISTQB | Risk-Based Testing | DFMEA/PFMEA</li>
+  </ul>
 
----
+  <h3 style="margin-top: 20px; color: #34495e;">📈 Certifications & Digital Mastery</h3>
+  <ul style="list-style-type: '➤ '; padding-left: 20px;">
+    <li>PMP 35 PDU | Lean Six Sigma Green Belt | ISTQB® Foundation Level</li>
+    <li>Data Analytics & BI (Power BI, Excel, Python, Azure, AI)</li>
+    <li>Product Management (Aha!) | Agile PM (Atlassian) | Embedded Systems & PLC</li>
+  </ul>
 
-## 📚 **Certifications & Specializations**  
-- 🎓 **CAD Certifications** (🏫 *ACADD Centre* & 💻 *Udemy*)  
-- 🤖 **Advanced Embedded Systems with Arduino** (📘 *Udemy*)  
-- ⚙️ **Learn Siemens S7-1200 PLC & HMI from Scratch using TIA** (🖥️ *Udemy*)  
-- 📊 **The Complete Data Analyst Bootcamp** (🎓 *Udemy*)  
-- 🐍 **Python, Power BI, Excel, and SQL** (🏢 *Pragmatic Works* & 📘 *Udemy*)  
-- 🎯 **Lean Six Sigma Green Belt** (🏆 *Six Sigma Academy*)  
-- 🛠️ **ISTQB® Foundation Level** (🌍 *GASQ*)  
-- 📈 **Product Management Certificate** (💡 *Aha!* & 📜 *PMI*)  
-- 🔄 **Agile Project Management Certificate** (📘 *Atlassian* & 📜 *PMI*)  
+  <h3 style="margin-top: 20px; color: #34495e;">🌍 Domain Experience</h3>
+  <ul style="list-style-type: '➤ '; padding-left: 20px;">
+    <li>Automotive Innovation | Smart Devices | Industrial Automation | Robotics</li>
+    <li>Cross-regional Project Management (EIMEA) | Supply Chain Optimization</li>
+    <li>Sustainable Engineering | Digital Validation Systems | Agile Delivery</li>
+  </ul>
 
----
-
-### 🛠️ **Technologies & Tools I Love**  
-
-#### **⚙️ CAD/CAE & Automation**  
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-lightgrey?logo=autodesk&logoColor=blue)  ![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?logo=solidworks&logoColor=white)  ![Siemens NX](https://img.shields.io/badge/-Siemens%20NX-blue?logo=siemens&logoColor=white)  ![Ansys](https://img.shields.io/badge/-Ansys-grey?logo=ansys&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-brightgreen?logo=arduino&logoColor=white)  ![Sensor Integration](https://img.shields.io/badge/-Sensor%20Integration-yellow?logo=sensors&logoColor=black)  ![PLC Programming](https://img.shields.io/badge/-PLC%20Programming-orange?logo=siemens&logoColor=white)  
-
-#### **📊 Programming & Data Analytics**  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-lightblue?logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=black)  ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple?logo=data&logoColor=white)  ![MS Office](https://img.shields.io/badge/-MS%20Office-orange?logo=microsoft-office&logoColor=white)  
-
----
-
-## 🌍 **Find Me Online**  
-📌 **[Nitin's LinkedIn Profile](https://www.linkedin.com/in/nitinkhule/)**  
-📧 **Have an exciting project or idea? Let’s connect and innovate together!** 🔥 Let's **push boundaries** and **build the future** together. **Reach out today, and let’s create something extraordinary!** 🚀
+  <p style="margin-top: 20px; font-weight: bold;">
+    📌 Languages: <span style="color: #16a085;">English (Fluent – C1)</span> | 
+    <span style="color: #16a085;">German (Intermediate – B1)</span>
+  </p>
+</div>
