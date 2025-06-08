@@ -1,48 +1,57 @@
-<div style="font-family: 'Segoe UI', sans-serif; color: #2c3e50; background: #f9fbfd; padding: 30px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 850px; margin: auto;">
+<div style="font-family: 'Segoe UI', sans-serif; color: #2c3e50; background: #f4f7fa; padding: 35px; border-radius: 18px; box-shadow: 0 6px 20px rgba(0,0,0,0.1); max-width: 950px; margin: auto; line-height: 1.8;">
 
-  <h2 style="font-size: 30px; color: #00b894; margin-bottom: 10px;">
-    🌐 <span style="color:#0984e3;">Engineering Innovation</span> | 🚀 <span style="color:#6c5ce7;">R&D Excellence</span> | 📊 <span style="color:#fd79a8;">Digital Intelligence</span>
+  <h2 style="font-size: 32px; text-align: center; margin-bottom: 20px;">
+    🌍 <span style="color:#0984e3;">Engineering Visionary</span> &nbsp;|&nbsp; ⚙️ <span style="color:#6c5ce7;">Smart Automation Expert</span> &nbsp;|&nbsp; 🧠 <span style="color:#00b894;">Digital Strategist</span>
   </h2>
 
-  <p style="font-size: 16.5px; line-height: 1.7; margin-bottom: 25px;">
-    I’m <strong>Nitin Khule</strong>, a <strong style="color:#2d3436;">Mechatronics & Robotics Engineer</strong> blending <span style="color:#0984e3;">technical depth</span> with 
-    <span style="color:#fdcb6e;">strategic project leadership</span>. My focus is delivering <strong style="color:#00cec9;">data-driven, innovation-led solutions</strong> across 
-    smart systems, automation, and digital transformation projects. I thrive at the convergence of <em style="color:#6c5ce7;">engineering excellence</em>, 
-    <em style="color:#e17055;">intelligent systems</em>, and <em style="color:#d63031;">agile execution</em>.
+  <p style="font-size: 17px; text-align: justify; margin-bottom: 25px;">
+    I’m <strong style="color:#2d3436;">Nitin Khule</strong>, a <strong style="color:#2d3436;">Mechatronics & Robotics Engineer</strong> passionate about blending physical engineering with digital intelligence. With a solid foundation in <span style="color:#00cec9;">smart systems</span>, 
+    <span style="color:#fdcb6e;">automation control</span>, and <span style="color:#fab1a0;">embedded technologies</span>, I focus on driving real-world innovation through <em style="color:#6c5ce7;">data-driven development</em>, <em style="color:#e17055;">intelligent machines</em>, and <em style="color:#d63031;">agile execution</em>. I thrive in the intersection of R&D, software-hardware integration, and product innovation.
   </p>
 
-  <h3 style="color: #34495e; font-size: 20px; margin-top: 25px;">💡 What I Bring</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>➤ 💡 <strong>Systems thinking</strong> approach for building intelligent, high-impact products</li>
-    <li>➤ 🧠 <strong>Agile project leadership</strong> across cross-functional R&D and engineering teams</li>
-    <li>➤ 📈 <strong>Data analytics integration</strong> into design, testing, and decision-making</li>
-    <li>➤ 🛠️ Strong base in <strong>automation tools</strong>, <strong>digital lifecycle systems</strong>, and quality frameworks</li>
+  <h3 style="color: #34495e; font-size: 21px;">🎯 My Core Strengths</h3>
+  <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+    <li>✅ <strong>End-to-End Mechatronics Product Development</strong> – From CAD to code</li>
+    <li>🧠 <strong>Agile R&D Leadership</strong> – Leading projects through Jira, Aha!, and Planview</li>
+    <li>📊 <strong>Data-Driven Decision Making</strong> – Embedded analytics, Power BI, and KPI dashboards</li>
+    <li>🤝 <strong>Cross-Functional Collaboration</strong> – Coordinating with design, software, QA & manufacturing teams</li>
+    <li>🛠️ <strong>Rapid Prototyping</strong> – Integrating Arduino, ESP32, Raspberry Pi, and LabVIEW</li>
   </ul>
 
-  <h3 style="color: #34495e; font-size: 20px; margin-top: 25px;">🔧 Tech Toolbox</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>➤ 🖥️ <strong>CAD/CAE:</strong> AutoCAD · SolidWorks · Siemens NX · Creo · Ansys</li>
-    <li>➤ ⚙️ <strong>Automation:</strong> PLC Programming · HMI · Sensor & Motor Control</li>
-    <li>➤ 👨‍💻 <strong>Programming:</strong> Python · SQL · MATLAB · Arduino · Power BI · MySQL</li>
-    <li>➤ 🧪 <strong>QA & Testing:</strong> DFMEA · PFMEA · Six Sigma · ISTQB · Risk-Based Testing</li>
+  <h3 style="color: #34495e; font-size: 21px;">🧰 Digital Toolbox</h3>
+  <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+    <li>🖥️ <strong>CAD/CAE & Simulation:</strong> SolidWorks · AutoCAD · Siemens NX · Creo · Ansys · FEA</li>
+    <li>⚙️ <strong>Automation Systems:</strong> Siemens TIA Portal · WinCC · PLCs (S7-1200/1500) · HMI · SCADA</li>
+    <li>👨‍💻 <strong>Programming:</strong> Python · MATLAB · Embedded C · SQL · Arduino · Power BI · REST APIs</li>
+    <li>📦 <strong>Version Control & CI/CD:</strong> GitHub · GitLab · Docker · Jenkins</li>
+    <li>🔬 <strong>QA & Testing:</strong> DFMEA · PFMEA · Six Sigma · ISTQB · Lab Testing Protocols</li>
   </ul>
 
-  <h3 style="color: #34495e; font-size: 20px; margin-top: 25px;">📜 Certifications & Specializations</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>➤ 🎓 <strong>PMP 35 PDU</strong> · <strong>Lean Six Sigma Green Belt</strong> · <strong>ISTQB® Foundation Level</strong></li>
-    <li>➤ 📊 <strong>Data & BI:</strong> Power BI · Excel · Python · Azure · AI Applications</li>
-    <li>➤ 🧭 <strong>Product & Agile Mgmt:</strong> Aha! · Atlassian Jira · Embedded & PLC Systems</li>
+  <h3 style="color: #34495e; font-size: 21px;">📜 Certifications & Specialized Training</h3>
+  <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+    <li>🎓 PMP 35 PDU (Project Management Institute)</li>
+    <li>🧪 Lean Six Sigma Green Belt | ISTQB® Certified Tester – Foundation Level</li>
+    <li>📊 Advanced Data Analytics: Power BI · Excel · Azure · Generative AI for Data</li>
+    <li>🚀 Agile Product Management: Aha! · Jira · Scrum · Product Lifecycle Tools</li>
   </ul>
 
-  <h3 style="color: #34495e; font-size: 20px; margin-top: 25px;">🌍 Domain Experience</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>➤ 🚗 <strong>Automotive Innovation</strong> · 🧠 Smart Devices · 🤖 Robotics · 🏭 Industrial Automation</li>
-    <li>➤ 🌐 <strong>Cross-regional Project Execution</strong> (EIMEA) · 📦 Supply Chain Optimization</li>
-    <li>➤ 🌱 Sustainability Projects · 🧪 Digital Validation Systems · 🔄 Agile Engineering Delivery</li>
+  <h3 style="color: #34495e; font-size: 21px;">🌐 Industry Focus & Domain Experience</h3>
+  <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+    <li>🚗 <strong>Automotive Electronics</strong> – Adhesives, Smart Manufacturing, Functional Testing</li>
+    <li>🧠 <strong>Smart Devices</strong> – Sensor Fusion · IoT · Gesture-Based Interfaces · Wireless Protocols</li>
+    <li>🏭 <strong>Industrial Automation</strong> – Bottling Systems · PLC/HMI · Real-Time Control Loops</li>
+    <li>📦 <strong>Supply Chain Optimization</strong> – Cross-regional delivery (EIMEA) & cost-reduction initiatives</li>
+    <li>🌱 <strong>Sustainability Engineering</strong> – PCR materials · Green Manufacturing · Digital Twins</li>
   </ul>
 
-  <p style="margin-top: 25px; font-size: 16px; font-weight: bold; color: #2d3436;">
-    📌 <strong>Languages:</strong> <span style="color: #00cec9;">English (Fluent – C1)</span> | <span style="color: #00cec9;">German (Intermediate – B1)</span>
+  <p style="font-size: 16px; margin-top: 25px; font-weight: bold; color: #2d3436;">
+    🗣️ <strong>Languages:</strong> <span style="color: #00cec9;">English (Fluent – C1)</span> | <span style="color: #00cec9;">German (B1 – Intermediate)</span> | 🌏 <em>Global Collaboration Ready</em>
   </p>
+
+  <div style="margin-top: 30px; text-align: center; font-size: 16px;">
+    🔗 <strong>Let’s Connect:</strong> <a href="https://www.linkedin.com/in/nitinkhule" style="color:#0984e3; text-decoration:none;">LinkedIn</a> · 
+    <a href="https://github.com/NitinKhule" style="color:#6c5ce7; text-decoration:none;">GitHub</a> · 
+    <a href="mailto:nitin.khule@domain.com" style="color:#e17055; text-decoration:none;">Email</a>
+  </div>
 
 </div>
