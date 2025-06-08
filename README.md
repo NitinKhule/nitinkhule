@@ -109,7 +109,7 @@
     🗣️ <strong>Languages:</strong> 
     <span style="color:#00cec9;">English (C1)</span> | 
     <span style="color:#00cec9;">German (B1)</span> | 
-    🌍 <em>Global Collaboration Ready</em>
+    
   </p>
 
   <!-- Contact -->
