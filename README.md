@@ -108,7 +108,7 @@
   <p style="font-size:16px;margin-top:25px;font-weight:bold;color:#2d3436;">
     🗣️ <strong>Languages:</strong> 
     <span style="color:#00cec9;">English (C1)</span> | 
-    <span style="color:#00cec9;">German (B1)</span> | 
+    <span style="color:#00cec9;">German (A2)</span> | 
     <span style="color:#00cec9;">Hindi (C2)</span> | 
     <span style="color:#00cec9;">Marathi (C2)</span> 
   </p>
