@@ -28,4 +28,4 @@ creating **smarter products, digital processes, and sustainable solutions** that
 
 ---
 
-⭐ *“Turning technical complexity into innovation that delivers measurable impact.”*  
+⭐⚙️💡🎯🌍 **“Turning technical complexity into innovation that delivers measurable impact.”** 🌍🎯💡⚙️⭐  
