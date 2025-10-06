@@ -24,7 +24,7 @@ creating **smarter products, digital processes, and sustainable solutions** that
 ---
 
 ## 🌍 Languages
-**English (C1 – Advanced)** | **German (A2 – Basic)** | **Hindi (Native)** | **Marathi (Native)**
+**English (C1 Advanced)** | **German (A2 Basic)** | **Hindi (Native)** | **Marathi (Native)**
 
 ---
 
