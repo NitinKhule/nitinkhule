@@ -1,10 +1,10 @@
 # ⚙️ Engineering Innovation | R&D Excellence | Turning Technology into Scalable Impact
 
 I’m a **Mechatronics & Robotics Engineer** who combines **engineering precision, data intelligence, and project leadership** to drive meaningful innovation.  
-My journey spans from **mechanical design and automation** to leading **cross-functional R&D and innovation projects** at **Henkel** — where **technology, strategy, and business value** come together.
+My journey spans from **mechanical design and automation** to leading **cross-functional R&D and innovation projects** at **Henkel** - where **technology, strategy, and business value** come together.
 
 💡 I create solutions that are **technically robust, digitally intelligent, and future-ready**.  
-Whether optimizing **RFID-based detection systems**, leading **global product change programs**, or designing **data-driven tools** that enhance visibility and performance — my focus is on **turning ideas into real, measurable results**.
+Whether optimizing **RFID-based detection systems**, leading **global product change programs**, or designing **data-driven tools** that enhance visibility and performance - my focus is on **turning ideas into real, measurable results**.
 
 ---
 
@@ -18,7 +18,7 @@ Whether optimizing **RFID-based detection systems**, leading **global product ch
 ---
 
 ## 🎯 My Vision
-To lead technology-driven initiatives that combine **engineering innovation with strategic impact** —  
+To lead technology-driven initiatives that combine **engineering innovation with strategic impact** -  
 creating **smarter products, digital processes, and sustainable solutions** that define the future of intelligent industries.
 
 ---
